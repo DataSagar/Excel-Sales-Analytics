@@ -18,9 +18,9 @@
  
 - **Project objective:**
  
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/DataSagar/Excel-Sales-Analytics/blob/main/market%20performance%20vs%20target.pdf)_ & _[Months](https://github.com/DataSagar/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20for%20Months.pdf)_
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/DataSagar/Excel-Sales-Analytics/blob/main/P%20%26%20L%20statement%20for%20years.pdf)_ & _[Months](https://github.com/DataSagar/Excel-Sales-Analytics/blob/main/P%20%26%20L%20statement%20for%20months.pdf)_
  
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/DataSagar/Excel-Sales-Analytics/blob/main/P%20%26%20L%20Statement%20for%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/DataSagar/Excel-Sales-Analytics/blob/main/P%20%26%20L%20statement%20for%20markets.pdf)_
  
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
  
